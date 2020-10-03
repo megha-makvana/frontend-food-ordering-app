@@ -1,0 +1,6 @@
+.mainDiv {
+  background-color: #253238;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
